@@ -1,0 +1,9 @@
+{
+	"name": "nycbikeproject123",
+	"location": "centralus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "bfb6856d-6943-403c-870a-b2d763ee98fd",
+		"tenantId": "0e392533-f01b-4dd7-b03c-042eb89b707f"
+	}
+}

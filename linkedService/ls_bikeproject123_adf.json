@@ -1,0 +1,17 @@
+{
+	"name": "ls_bikeproject123_adf",
+	"type": "Microsoft.DataFactory/factories/linkedservices",
+	"properties": {
+		"annotations": [],
+		"type": "AzureSqlDW",
+		"typeProperties": {
+			"server": "udacity-syn-bikeproject123-ondemand.sql.azuresynapse.net",
+			"database": "udacity",
+			"encrypt": "mandatory",
+			"trustServerCertificate": false,
+			"authenticationType": "SQL",
+			"userName": "sqladminuser",
+			"encryptedCredential": "ew0KICAiVmVyc2lvbiI6ICIyMDE3LTExLTMwIiwNCiAgIlByb3RlY3Rpb25Nb2RlIjogIktleSIsDQogICJTZWNyZXRDb250ZW50VHlwZSI6ICJQbGFpbnRleHQiLA0KICAiQ3JlZGVudGlhbElkIjogIkRBVEFGQUNUT1JZQDQyMjQzQzMxLTZCODAtNDBDQy05Q0FELTNGQTgwQkNBOTgzMl9kMWJjNjU4ZS01NGI0LTQ1MDctYWI2NC04YTQ5YjA4ZDg4OWUiDQp9"
+		}
+	}
+}
